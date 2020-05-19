@@ -1,0 +1,22 @@
+* Understanding Gödel's Proof
+
+First read J.R Lucas’s essay he wrote for first year undergraduates:
+http://archive.is/ESJv9
+
+If you lack the knowledge to understand the basic symbols, you might need a logic primer (Still thinking on how I might construct one).
+
+Then the Nagel and Newman treatment:
+https://amzn.to/2UlZ9O6
+
+Nagel and Newman's book tries to give an overall structure of the treatment, but I think it is inadequate to understand the exact machinery Gödel employed to expose the ensuing Paradoxes in the formalist approach.
+I have to see how it compares with Smullyan's exposition.
+
+Smullyan’s Exposition: https://amzn.to/3bCcMxm
+
+Maybe Peter Smith's version: https://www.logicmatters.net/igt/
+
+Use and Abuse: https://amzn.to/3607dYD
+
+Final Boss: https://amzn.to/3bkABK9
+
+Also, it's my hunch that to understand the idea in it’s entirety, one might also would need to understand Russell and Whitehead’s Principia Mathematica’s thrust and Hilbert's programme to some extend.
