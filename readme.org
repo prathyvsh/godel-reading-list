@@ -8,8 +8,7 @@ If you lack the knowledge to understand the basic symbols, you might need a logi
 Then the Nagel and Newman treatment:
 https://amzn.to/2UlZ9O6
 
-Nagel and Newman's book tries to give an overall structure of the treatment, but I think it is inadequate to understand the exact machinery Gödel employed to expose the ensuing Paradoxes in the formalist approach.
-I have to see how it compares with Smullyan's exposition.
+Nagel and Newman's book tries to give an overall structure of the treatment, but I think it is inadequate to understand the exact machinery Gödel employed to expose the ensuing paradoxes in the formalist approach. The book does give a good overview of some historical context around where Gödel’s Proof emerged. I have to see how it compares with Smullyan's exposition.
 
 Smullyan’s Exposition: https://amzn.to/3bCcMxm
 
